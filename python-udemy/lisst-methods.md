@@ -1,8 +1,8 @@
 # append function
-* adding something to the var
-* list1 = [1,2,3,4,5,6]
-* newlist = list1.append[100]
-* print(newlist)     or print(list.append[100])
+adding something to the var
+list1 = [1,2,3,4,5,6]
+newlist = list1.append[100]
+print(newlist)     or print(list.append[100])
 
 # insert function
 adding at specified index location
